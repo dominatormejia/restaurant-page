@@ -1,4 +1,4 @@
 import "./styles.css";
-import { greeting } from "./greeting.js";
+import { test } from "./home.js";
 
-console.log(greeting);
+test();
