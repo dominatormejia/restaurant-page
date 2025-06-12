@@ -15,6 +15,7 @@ export function test() {
     const paraFour = document.createElement("p");
     const textWide = document.createElement("div");
     const paraFive = document.createElement("p");
+    const button = document.querySelector("home");
 
     imgOne.src = sushiImageOne;
     imgOne.alt = "Two Sushi Rolls";
